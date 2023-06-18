@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="NorthNepalTrek" />
+        <Header title="NorthNepalTrek"/>
         <p className="description">
           Blogs
         </p>
